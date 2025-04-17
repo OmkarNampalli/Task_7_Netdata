@@ -23,6 +23,4 @@ See `screenshot.png` for the live dashboard view.
 - Easy to deploy using Docker on Windows with Docker Desktop.
 - Real-time monitoring and auto-generated dashboards are useful for server and container health.
 
-## 🔗 Accessing Dashboard
-After running the container, open [http://localhost:19999](http://localhost:19999) in your browser.
 # Task-_7_Netdata
